@@ -1,8 +1,8 @@
-# Consumo-de-api-node-js
+# Consumo de API em NodeJS
 
 Aplicação de consumo da api https://viacep.com.br/
 
-### 📋 Como rodar a aplicação
+### 📋 Como rodar a aplicação?
 
 Dentro da pasta raiz do projeto execute o comando seguinte
 
@@ -22,4 +22,4 @@ agora entre no link
 http://localhost:3000/
 ```
 
-✔️ Sua aplicação ja estará rodando
+✔️ Sua aplicação ja estará rodando!!!
